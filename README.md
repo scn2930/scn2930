@@ -3,7 +3,7 @@
 <h2 align="center">세상의 모든 아이디어를 현실로 만들고 싶은 주니어 개발자입니다!</h2>
 <h3 align="center">I am a junior developer who wants to turn all ideas in the world into reality!</h3>
 
-
+<br><br>
 
 ## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -14,13 +14,18 @@
 <span><img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=fff" alt="Next.js logo" title="Next.js" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /></span>
 
+<br>
+
 ## 📖  What I want learning someday
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+
+<br>
 
 ## 🔍  Where to find me
 <a href="https://velog.io/@fed/posts"><img src="https://img.shields.io/badge/Velog-282C34?logo=Velog&logoColor=green" alt="Velog logo" title="Velog" height="25" /></a>
 
 <br><br>
+
 <a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scn2930&layout=compact&theme=black&hide_border=true" /></a> 
 <a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=scn2930&show_icons=true&include_all_commits=true&theme=black&hide_border=true" alt="scn2930's github stats" /></a>
 <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=scn2930&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
