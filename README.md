@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=7BD1D2&height=300&section=header&text=최재혁&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=75BDE0&height=300&section=header&text=최재혁&fontSize=90" />
 
  <a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=scn2930&show_icons=true&include_all_commits=true&theme=black&hide_border=true" alt="scn2930's github stats" /></a>
  <a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scn2930&layout=compact&theme=black&hide_border=true" /></a> 
