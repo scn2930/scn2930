@@ -11,14 +11,14 @@
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/></span>
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 <span><img src="https://img.shields.io/badge/REACT-282C34?logo=react&logoColor=1572B6" alt="REACT logo" title="REACT" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=000000" alt="Next.js logo" title="Next.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=fff" alt="Next.js logo" title="Next.js" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /></span>
 
 ## 📖  What I want learning someday
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 
 ## 🔍  Where to find me
-<a href="https://velog.io/@fed/posts"><img src="https://img.shields.io/badge/Velog-282C34?logo=Velog&logoColor=20C997" alt="Velog logo" title="Velog" height="25" /></a>
+<a href="https://velog.io/@fed/posts"><img src="https://img.shields.io/badge/Velog-282C34?logo=Velog&logoColor=green" alt="Velog logo" title="Velog" height="25" /></a>
 
 <br><br>
 <a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scn2930&layout=compact&theme=black&hide_border=true" /></a> 
