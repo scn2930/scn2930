@@ -3,14 +3,12 @@
 <h3 align="center">I am a junior developer who wants to turn all ideas in the world into reality!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scn2930&label=Visitors&color=079711&style=flat" alt="scn2930" /> </p>
+
+## 🛠  Technologies and tools
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-&nbsp;
 <br><br>
 
  <a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=scn2930&show_icons=true&include_all_commits=true&theme=black&hide_border=true" alt="scn2930's github stats" /></a>
