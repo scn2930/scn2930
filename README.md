@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fed</h1>
+<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=venom&color=75BDE0&height=300&section=header&text=Hi 👋, I'm Fed&fontSize=90" /></h1>
 <h3 align="center">세상의 모든 아이디어를 현실로 만들고 싶은 주니어 개발자입니다!</h3>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=75BDE0&height=300&section=header&text=최재혁&fontSize=90" />
+
 
  <a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=scn2930&show_icons=true&include_all_commits=true&theme=black&hide_border=true" alt="scn2930's github stats" /></a>
  <a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scn2930&layout=compact&theme=black&hide_border=true" /></a> 
