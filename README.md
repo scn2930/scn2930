@@ -14,7 +14,7 @@
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=green" alt="Node.js logo" title="Node.js" height="25" /></span>
 
 ## 🔍  Where to find me
-<span><img src="https://img.shields.io/badge/Velog-282C34?logo=Velog&logoColor=green" alt="Velog logo" title="Velog" height="25" /></span>
+<a href="https://velog.io/@fed/posts"><img src="https://img.shields.io/badge/Velog-282C34?logo=Velog&logoColor=green" alt="Velog logo" title="Velog" height="25" /></a>
 
 <br><br>
 <a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scn2930&layout=compact&theme=black&hide_border=true" /></a> 
