@@ -1,7 +1,5 @@
-## Hi there 👋
-
-
-
+<h1 align="center">Hi 👋, I'm Fed</h1>
+<h3 align="center">세상의 모든 아이디어를 현실로 만들고 싶은 주니어 개발자입니다!</h3>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -19,8 +17,7 @@
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=scn2930&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 
 
-<h1 align="center">Hi 👋, I'm Fed</h1>
-<h3 align="center">세상의 모든 아이디어를 현실로 만들고 싶은 주니어 개발자입니다!</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scn2930&label=Visitors&color=079711&style=flat" alt="scn2930" /> </p>
 
