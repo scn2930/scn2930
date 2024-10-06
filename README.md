@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=75BDE0&height=300&section=header&text=Hi,&nbsp;I'm&nbsp;JaeHyeok&fontSize=70"/>
-<h2 align="center">세상의 모든 <span style="color:blue">아이디어를 현실로</span> 만들고 싶은 주니어 개발자입니다!</h2>
+<h2 align="center">세상의 모든 아이디어를 현실로 만들고 싶은 주니어 개발자입니다!</h2>
 <h3 align="center">I am a junior developer who wants to turn all ideas in the world into reality!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scn2930&label=Visitors&color=079711&style=flat" alt="scn2930" /> </p>
+<br><br>
 
  <a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=scn2930&show_icons=true&include_all_commits=true&theme=black&hide_border=true" alt="scn2930's github stats" /></a>
  <a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scn2930&layout=compact&theme=black&hide_border=true" /></a> 
