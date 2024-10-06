@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=75BDE0&height=300&section=header&text=Hi,&nbsp;I'm&nbsp;JaeHyeok&fontSize=70"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=scn2930&label=Visitors&color=079711&style=flat" alt="scn2930" /> </p>
 <h2 align="center">세상의 모든 아이디어를 현실로 만들고 싶은 주니어 개발자입니다!</h2>
 <h3 align="center">I am a junior developer who wants to turn all ideas in the world into reality!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scn2930&label=Visitors&color=079711&style=flat" alt="scn2930" /> </p>
+
 
 ## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
