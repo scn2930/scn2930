@@ -15,7 +15,7 @@
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=green" alt="Node.js logo" title="Node.js" height="25" /></span>
 
 ## 📖  What I want learning someday
-<span><img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker" alt="Docker logo" title="Docker" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 
 ## 🔍  Where to find me
 <a href="https://velog.io/@fed/posts"><img src="https://img.shields.io/badge/Velog-282C34?logo=Velog&logoColor=green" alt="Velog logo" title="Velog" height="25" /></a>
