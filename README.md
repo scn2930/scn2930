@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-// <img src="https://capsule-render.vercel.app/api?type=venom&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+ <img src="https://capsule-render.vercel.app/api?type=venom&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=FrontEnd Developer%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=FrontEndDeveloper%20render&fontSize=90)
 
  <a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=scn2930&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="scn2930's github stats" /></a>
  <a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scn2930&layout=compact&theme=buefy&hide_border=true" /></a> 
