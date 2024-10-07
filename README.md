@@ -22,8 +22,7 @@
 <br>
 
 ## 🔍  Where to find me
-<a href="https://velog.io/@fed/posts"><img src="https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white" alt="Velog logo" title="Velog" height="25" /></a>
-
+<a href="https://velog.io/@fed/posts"><img src="https://img.shields.io/badge/Velog-282C34?logo=Velog&logoColor=white" alt="Velog logo" title="Velog" height="25" /></a>
 <a href="https://www.notion.so/11598c9e78ef8057bce1fda8f1e12b91?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" alt="Notion logo" title="Notion" height="25" /></a>
 
 <br><br>
