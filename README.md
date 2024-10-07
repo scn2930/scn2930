@@ -41,8 +41,8 @@
 <br><br>
 
 ## 📊  Statistics
-<a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scn2930&layout=compact&theme=black&hide_border=true" /></a> 
-<a href="https://github.com/scn2930/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=scn2930&show_icons=true&include_all_commits=true&theme=black&hide_border=true" alt="scn2930's github stats" /></a>
+<a href="https://github.com/scn2930/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scn2930&layout=compact&theme=black&hide_border=true" /></a> 
+<a href="https://github.com/scn2930/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=scn2930&show_icons=true&include_all_commits=true&theme=black&hide_border=true" alt="scn2930's github stats" /></a>
 <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=scn2930&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 
 
